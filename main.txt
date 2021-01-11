@@ -1,0 +1,1 @@
+https://public.tableau.com/profile/eduardo.rebelo#!/vizhome/lab-intro-bi-tableau_16103255075050/AvgWarehouseSalesbyYearMonthandItemType
