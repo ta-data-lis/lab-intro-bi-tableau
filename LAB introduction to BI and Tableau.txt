@@ -1,0 +1,22 @@
+LAB introduction to BI and Tableau
+
+Metrics: 
+
+Viz_1A  -  Total Retail Sales by Year/Quarter (rows).
+Viz_1B  -  Average Retail Sales by Year/Quarter (rows).
+Viz_1C  -  Total Retail Sales by Year/Month (rows) and Item Type (columns).
+Viz_1D  -  Average Retail Sales by Year/Month (rows) and Item Type (columns).
+
+Viz_2A  -  Total Retail Transfers by Year/Quarter (rows).
+Viz_2B  -  Average Retail Transfers by Year/Quarter (rows).
+Viz_2C  -  Total Retail Transfers by Year/Month (rows) and Item Type (columns).
+Viz_2D  -  Average Retail Transfers by Year/Month (rows) and Item Type (columns).
+
+Viz_3A  -  Total Warehouse Sales by Year/Quarter (rows).
+Viz_3B  -  Average Warehouse Sales by Year/Quarter (rows).
+Viz_3C  -  Total Warehouse Sales by Year/Month (rows) and Item Type (columns).
+Viz_3D  -  Average Warehouse Sales by Year/Month (rows) and Item Type (columns).
+
+Deliverables: 
+
+https://public.tableau.com/views/LiquorStoreSalesDataSet/Viz_1A?:language=pt-BR&publish=yes&:display_count=n&:origin=viz_share_link
