@@ -17,22 +17,29 @@ To complete this lab, follow each of the steps below.
 3. Launch the Tableau Public application.
 4. Import the data set from Google Sheets into Tableau.
 5. Once the data set has been imported, change the data type for the Year field to string.
+
 6. Create a new field called Quarter by [binning](https://onlinehelp.tableau.com/current/pro/desktop/en-us/calculations_bins.htm) the month field using a bin size of 4.
+
 7. Create a new worksheet, drag the newly-created Quarter field into the Rows section, and drag the Number of Records measure to the center of the view. You will notice that the quarters are currently named labeled 0, 4, 8, 12. [Rename](https://onlinehelp.tableau.com/current/pro/desktop/en-us/datafields_fieldproperties_aliases_ex1editing.htm) them more intuitively by right-clicking on the Quarter dimension, selecting Aliases and changing their names to Q1, Q2, Q3, and Q4 respectively.
+
 8. Create new worksheets with tabular views for each of the following metrics.
-    - Total Retail Sales by Year/Quarter (rows).
-    - Average Retail Sales by Year/Quarter (rows).
-    - Total Retail Sales by Year/Month (rows) and Item Type (columns).
-    - Average Retail Sales by Year/Month (rows) and Item Type (columns).
-    - Total Retail Transfers by Year/Quarter (rows).
-    - Average Retail Transfers by Year/Quarter (rows).
-    - Total Retail Transfers by Year/Month (rows) and Item Type (columns).
-    - Average Retail Transfers by Year/Month (rows) and Item Type (columns).
-    - Total Warehouse Sales by Year/Quarter (rows).
-    - Average Warehouse Sales by Year/Quarter (rows).
-    - Total Warehouse Sales by Year/Month (rows) and Item Type (columns).
-    - Average Warehouse Sales by Year/Month (rows) and Item Type (columns).
+    - Total Retail Sales by Year/Quarter (rows).DONE
+    - Average Retail Sales by Year/Quarter (rows).DONE
+    - Total Retail Sales by Year/Month (rows) and Item Type (columns).DONE
+    - Average Retail Sales by Year/Month (rows) and Item Type (columns).done
+    - Total Retail Transfers by Year/Quarter (rows).done
+    - Average Retail Transfers by Year/Quarter (rows).done
+    - Total Retail Transfers by Year/Month (rows) and Item Type (columns).done
+    - Average Retail Transfers by Year/Month (rows) and Item Type (columns).done
+    - Total Warehouse Sales by Year/Quarter (rows).done
+    - Average Warehouse Sales by Year/Quarter (rows).done
+    - Total Warehouse Sales by Year/Month (rows) and Item Type (columns).done
+    - Average Warehouse Sales by Year/Month (rows) and Item Type (columns). Done
+
+
 9. Save your work to Tableau Public, ensure that your workbook is viewable, and copy the URL for the workbook into the deliverables file for this lab. It might take several minutes for this workbook to save to Tableau Public due to the number of records in the data set.
+
+
 
 ## Deliverables
 
