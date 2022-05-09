@@ -1,0 +1,4 @@
+
+Link to the tableau file:
+
+https://public.tableau.com/app/profile/asier.rodriguez/viz/Lab_intro_to_Tableau_Asier/Avg_WarehouseSalesbyYearMonthandItemType?publish=yes
