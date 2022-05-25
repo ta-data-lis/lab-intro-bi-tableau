@@ -1,5 +1,7 @@
 <img src="https://bit.ly/2VnXWr2" alt="Ironhack Logo" width="100"/>
 
+solution: https://public.tableau.com/views/CustomerAnalysis_16529025239650/Story3?:language=en-GB&publish=yes&:display_count=n&:origin=viz_share_link
+
 # Lab | Introduction to BI and Tableau
 
 ## Introduction
