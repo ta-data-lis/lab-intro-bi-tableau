@@ -21,8 +21,7 @@ To complete this lab, follow each of the steps below.
 7. Create a new worksheet, drag the newly-created Quarter field into the Rows section, and drag the Number of Records measure to the center of the view. You will notice that the quarters are currently named labeled 0, 4, 8, 12. [Rename](https://onlinehelp.tableau.com/current/pro/desktop/en-us/datafields_fieldproperties_aliases_ex1editing.htm) them more intuitively by right-clicking on the Quarter dimension, selecting Aliases and changing their names to Q1, Q2, Q3, and Q4 respectively.
 8. Create new worksheets with tabular views for each of the following metrics.
     - Total Retail Sales by Year/Quarter (rows).
-    - Average Retail Sales by Year/Quarter (rows).
-    - Total Retail Sales by Year/Month (rows) and Item Type (columns).
+     - Total Retail Sales by Year/Month (rows) and Item Type (columns).
     - Average Retail Sales by Year/Month (rows) and Item Type (columns).
     - Total Retail Transfers by Year/Quarter (rows).
     - Average Retail Transfers by Year/Quarter (rows).
