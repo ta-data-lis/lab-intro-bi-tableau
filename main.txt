@@ -1,0 +1,11 @@
+Sales:
+
+https://public.tableau.com/views/Ironhack-LabIntro-BI-Tableau-Sales/Sales?:language=pt-BR&:display_count=n&:origin=viz_share_link
+
+Retail Sales:
+
+https://public.tableau.com/views/Ironhack-LabIntro-BI-Tableau-RetailSales/Retail?:language=pt-BR&:display_count=n&:origin=viz_share_link
+
+Warehouse Sales:
+
+https://public.tableau.com/views/Ironhack-LabIntro-BI-Tableau-WarehouselSales/Warehouse?:language=pt-BR&:display_count=n&:origin=viz_share_link
