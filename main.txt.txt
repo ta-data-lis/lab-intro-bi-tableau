@@ -1,0 +1,3 @@
+link to lab:
+
+https://public.tableau.com/views/Ironhack-lab-intro-bi-tableau/AVGWarehouseSale_ItemType?:language=pt-BR&publish=yes&:display_count=n&:origin=viz_share_link
