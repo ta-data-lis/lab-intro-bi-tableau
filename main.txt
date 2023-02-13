@@ -1,0 +1,2 @@
+Tableau link: 
+https://public.tableau.com/views/lab-intro-bi-tableauleonordraiblate/AverageWarehouseSalesbyYearMonthrowsandItemTypecolumns_?:language=en-GB&:display_count=n&:origin=viz_share_link
