@@ -1,0 +1,9 @@
+Retail Sales 
+https://public.tableau.com/app/profile/sara.filipa.martins/viz/RetailSales_16769052595470/RetailSales
+
+Retail Transfers
+https://public.tableau.com/app/profile/sara.filipa.martins/viz/RetailTransfers_16769072076440/RetailTransfers
+
+Warehouse Sales
+https://public.tableau.com/app/profile/sara.filipa.martins/viz/WarehouseSales_16769079004930/WarehouseSales
+
